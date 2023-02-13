@@ -11,7 +11,7 @@ int main()
         int x;
         cin>>x;
     
-        cout <<"sum = " << (x/10000)+(x%10) << endl;
+        cout <<"Sum = " << (x/10000)+(x%10) << endl;
         
     }
 
